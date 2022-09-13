@@ -1,6 +1,6 @@
 import subprocess
 from pwn import *
-#coded by vanishyi
+#coded by vanishyi, HTB Timelapse autopwn
 
 ip = input("put in the target ip address:").replace('\n','')
 

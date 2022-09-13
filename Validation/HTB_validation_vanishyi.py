@@ -1,4 +1,4 @@
-#coded by vanishyi
+#coded by vanishyi, HTB Validation autopwn
 #My first autopwn!
 import requests
 import subprocess

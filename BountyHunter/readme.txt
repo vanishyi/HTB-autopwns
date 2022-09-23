@@ -1,3 +1,3 @@
 NOTE: Have fun! :)
 
-coded by vanishyi
+Coded by vanishyi

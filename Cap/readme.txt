@@ -1,3 +1,3 @@
-Have fun :)
+NOTE: Have fun! :)
 
 Coded by vanishyi
